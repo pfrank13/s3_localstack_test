@@ -4,7 +4,7 @@
   "description": "A simple project testing being able to send bucket.localhost to localstack",
   "main": "dist/src/index.js",
   "scripts": {
-    "test": "NODE_ENV=test jest --forceExit --coverage --verbose --runInBand\""
+    "test": "NODE_ENV=test jest --forceExit --coverage --verbose --runInBand"
   },
   "repository": {
     "type": "git",
